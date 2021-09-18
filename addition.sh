@@ -1,1 +1,3 @@
-echo "Helloworld"
+a=20
+b=30
+echo "$((a+b))"
